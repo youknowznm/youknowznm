@@ -1,6 +1,9 @@
-### Hi there 👋
+Farewell, ashen one.  
+May the flames guide thee.
 
 <!--
+### Hi there 👋
+
 **youknowznm/youknowznm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
