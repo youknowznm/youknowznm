@@ -1,10 +1,10 @@
-Farewell, ashen one.  
-May the flames guide thee.
+**Farewell, ashen one.**  
+**May the flames guide thee.**
 
 ---
 
-再会, 灰烬大人.
-愿火焰将您引导.
+**再会, 灰烬大人.**  
+**愿火焰将您引导.**
 
 <!--
 ### Hi there 👋
