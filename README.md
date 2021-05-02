@@ -1,5 +1,5 @@
-*Farewell, ashen one.*  
-*May the flames guide thee.*
+> *Farewell, ashen one.*  
+> *May the flames guide thee.*
 <!--
 ### Hi there 👋
 
