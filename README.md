@@ -1,5 +1,8 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youknowznm)](https://github.com/anuraghazra/github-readme-stats)
+
 > *Farewell, ashen one.*  
 > *May the flames guide thee.*
+
 <!--
 ### Hi there 👋
 
