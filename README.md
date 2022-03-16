@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs,issues&count_private=true&theme=graywhite)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youknowznm&hide=contribs,prs&count_private=true&theme=swift)
 
 > *Farewell, ashen one.*  
 > *May the flames guide thee.*
